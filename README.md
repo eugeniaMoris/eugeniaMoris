@@ -28,6 +28,4 @@ Here, you'll find a collection of my research projects, code, and results that I
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-
 Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions about my research.
