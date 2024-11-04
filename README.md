@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub! 👋
 
-I'm **Eugenia Moris** (you can call me **Euge**), a **System Engineer** from Tandil, Argentina, currently wrapping up my **PhD in Machine Learning applications to Medical Imaging**. My research focuses on **optic disc and cup segmentation** for fundus images, leveraging deep learning models for more accurate and efficient medical image analysis.
+I'm **Eugenia Moris** (you can call me **Euge**), a **System Engineer** from Tandil, Argentina, currently wrapping up my **PhD in Machine Learning applications to Medical Imaging**. My current research focuses on **optic disc and cup segmentation** for fundus images, leveraging deep learning models for more accurate and efficient medical image analysis.
 
 ## 🚀 About Me
 - **🎓 Background:** I'm passionate about using code to solve challenging problems, particularly in the fields of computer science and medical imaging. I enjoy tasks that require creativity and logical thinking, and I find coding and scientific research to be perfect avenues for those interests.
@@ -13,8 +13,15 @@ I'm **Eugenia Moris** (you can call me **Euge**), a **System Engineer** from Tan
   - Personal: [euge.moris@gmail.com](mailto:euge.moris@gmail.com)
 
 ## 🔧 Tech Stack
-- **Languages & Frameworks:** Python, PyTorch, PyTorch Lightning, SQL, Java
+- **Languages & Frameworks:** Python, PyTorch, PyTorch Lightning
 - **Specializations:** Deep Learning, Computer Vision, Medical Imaging
+
+## 🏆 Academic Publications & Awards
+I have three academic publications, including:
+- **Editor's Choice Award** for [Evaluating sleep-stage classification: how age and early-late sleep affects classification performance](https://arxiv.org/pdf/2310.13754)  
+- **Best Poster Presentation** for [Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images](https://openreview.net/pdf?id=Wcb6Wynz3e)
+
+For a full list of my publications, feel free to check my [Google Scholar Profile](https://scholar.google.com/citations?user=krc21eUAAAAJ&hl=es).
 
 ## 📚 Featured Projects
 Here, you'll find a collection of my research projects, code, and results that I've developed as part of my academic work.
@@ -22,20 +29,3 @@ Here, you'll find a collection of my research projects, code, and results that I
 ---
 
 Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you're interested in collaboration or have any questions about my research.
-
-
-
-<!--
-**eugeniaMoris/eugeniaMoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
