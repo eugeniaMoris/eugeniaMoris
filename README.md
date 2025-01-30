@@ -1,4 +1,4 @@
-# 👩‍💻 Eugenia Moris | PhD Candidate in Machine Learning for Medical Imaging
+# 👩‍💻 Eugenia Moris | PhD in Computational Mathematics 
 
 ## Welcome to My GitHub! 👋
 
